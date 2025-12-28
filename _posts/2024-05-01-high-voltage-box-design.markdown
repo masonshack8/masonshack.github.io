@@ -12,7 +12,7 @@ Designed three high voltage distribution boxes with fuses, HVIL, GFD, contactors
 I designed three high voltage distribution boxes in Siemens NX for the positive bus of the front motor, negative bus of the front motor, and the rear motor. These boxes include fuses, high voltage interlock loop (HVIL) switches, a ground fault detection device (GFD), contactors, and a test connector. I designed and built the boxes to safely supply high voltage power to two motors for a 6,000 lb vehicle.
 
 <figure>
-  <img src="{{ '/assets/images/FrontPosHVBox1.jpg' | relative_url }}" alt="Front Positive HV Box" class="full-width">
+  <img src="{{ '/assets/images/FrontPosHVBox.jpg' | relative_url }}" alt="Front Positive HV Box" class="full-width">
 </figure>
 
 <div class="center">
